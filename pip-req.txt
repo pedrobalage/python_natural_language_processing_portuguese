@@ -1,0 +1,6 @@
+scikit-learn
+nltk
+pattern
+textblob
+polyglot
+spacy
