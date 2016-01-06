@@ -1,3 +1,4 @@
+cython
 scikit-learn
 nltk
 pattern
@@ -9,3 +10,9 @@ chardet
 blist
 marisa-trie
 pyenchant
+jellyfish
+fuzzywuzzy
+metaphone
+whoosh
+gensim
+word2vec==0.8.1
