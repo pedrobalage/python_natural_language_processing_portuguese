@@ -4,3 +4,6 @@ pattern
 textblob
 polyglot
 spacy
+chardet
+blist
+marisa-trie
