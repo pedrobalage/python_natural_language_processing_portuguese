@@ -3,7 +3,9 @@ nltk
 pattern
 textblob
 polyglot
+nlpnet
 spacy
 chardet
 blist
 marisa-trie
+pyenchant
