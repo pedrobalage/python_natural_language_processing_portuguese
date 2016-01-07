@@ -16,3 +16,4 @@ metaphone
 whoosh
 gensim
 word2vec==0.8.1
+python-crfsuite
