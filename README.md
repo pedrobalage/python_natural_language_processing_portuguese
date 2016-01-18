@@ -1,6 +1,4 @@
-This is a course of Natural Language Processing with python.
-
-The target of this course is NLP for Portuguese.
+This is a practical course of Natural Language Processing with python focused in Portuguese resources
 
 Author: Pedro Paulo Balage
 Website: pedrobalage.com(http://pedrobalage.com)
